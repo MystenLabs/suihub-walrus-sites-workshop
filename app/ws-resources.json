@@ -3,11 +3,12 @@
     "/index.html": "/src/index.html"
   },
   "metadata": {
-	   "link": "https://athens-suihub-ws-presentation.wal.app",
-	   "image_url": "https://www.walrus.xyz/walrus-site",
-	   "description": "The presentation slides of the Walrus Sites presentation that took place in SuiHub Athens July 2025.",
-	   "project_url": "https://github.com/MystenLabs/suihub-walrus-sites-workshop/",
-	   "creator": "Alex T."
-	},
-  "site_name": "SuiHub Walrus Sites Presentation"
+    "link": "https://athens-suihub-ws-presentation.wal.app",
+    "image_url": "https://www.walrus.xyz/walrus-site",
+    "description": "The presentation slides of the Walrus Sites presentation that took place in SuiHub Athens July 2025.",
+    "project_url": "https://github.com/MystenLabs/suihub-walrus-sites-workshop/",
+    "creator": "Alex T."
+  },
+  "site_name": "SuiHub Walrus Sites Presentation",
+  "object_id": "0x569c3fff5084bfac4ac82e09224e5933b350da7ed027d9384d75c9ad212f93a0"
 }
