@@ -2492,6 +2492,9 @@ CV / News
     width: 30%; }
   .card-40 figure,
   .card-60 .flex-content,
+  .card-60 figure, .card-60 blockquote, .card-60 .flex-content {
+        min-height: 600px; /* Set your desired height as a percentage */
+   }
   .card-60 blockquote {
     width: 40%; }
   .card-60 figure,
